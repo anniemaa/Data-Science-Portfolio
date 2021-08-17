@@ -1,5 +1,5 @@
 # Data-Science-Portfolio
-Links to my Kaggle and Tableau public profiles. Also includes StrataScratch to demonstrate my SQL knowledge
+Links to my Kaggle and Tableau public profiles. Also includes examples from StrataScratch to demonstrate my SQL knowledge
 
 Kaggle (online community for Data Science): https://www.kaggle.com/anniemaa
 
