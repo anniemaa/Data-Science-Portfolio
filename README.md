@@ -1,6 +1,6 @@
 # Data-Science-Portfolio
-Links to my Kaggle and Tableau public profile. Also includes StrataScratch to demonstrate my SQL knowledge
+Links to my Kaggle and Tableau public profiles. Also includes StrataScratch to demonstrate my SQL knowledge
 
-https://www.kaggle.com/anniemaa
+Kaggle (online community for Data Science): https://www.kaggle.com/anniemaa
 
-https://public.tableau.com/app/profile/annie5912
+Tableau Public dashboards: https://public.tableau.com/app/profile/annie5912
